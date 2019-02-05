@@ -38,7 +38,7 @@ android {
 
 dependencies {
     implementation 'com.android.support:support-compat:26.1.0'
-    implementation 'com.github.barteksc:pdfium-android:1.9.0'
+    implementation 'com.github.AZKZero:PdfiumAndroid:v2.0.0'
 }
 
 apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/installv1.gradle'
